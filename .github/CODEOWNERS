@@ -1,0 +1,7 @@
+# CODEOWNERS - Última actualización: 2025-09-21
+# Autor: Néstor Pérez
+# Propósito: Definir responsables de código y documentación
+*       @Nestor0425
+/docs/* @Nestor0425
+/src/*  @Nestor0425
+/tests/* @Nestor0425
